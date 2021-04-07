@@ -1,1 +1,1 @@
-
+This project is all about predicting the heart attack based on different parameters such as cholestrol, bp, exercise etc. There is also data analysis and data preprocessing in the begining. In this I have used logistic regression and decision tree for modelling. This folder consists of two files on html and another .ipynb(jupyter file) of the code.
